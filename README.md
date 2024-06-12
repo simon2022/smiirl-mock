@@ -60,4 +60,4 @@ Now make sure that you make both API endpoints available on a server (in the exa
 
 #### Example implementation
 
-[java example](blob/main/smiirl_mock/src/smiirl_mock/SmiirlMock.java)
+[java example](src/smiirl_mock/SmiirlMock.java)
