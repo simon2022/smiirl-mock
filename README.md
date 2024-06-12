@@ -1,4 +1,8 @@
 # smiirl-mock
+
+![header](img/mock.jpg)
+
+
 [![stars](https://img.shields.io/github/stars/simon2022/smiirl-analyse?style=social)](https://github.com/simon2022/smiirl-analyse/)
 
 This project describes how the [Smiirl counters](https://www.smiirl.com/ "Smiirl counters") work and how they could possibly be used for other purposes without having to buy the custom counter.
