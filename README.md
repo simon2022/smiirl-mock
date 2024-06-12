@@ -1,4 +1,4 @@
-# smiirl analyse
+# smiirl-mock
 [![stars](https://img.shields.io/github/stars/simon2022/smiirl-analyse?style=social)](https://github.com/simon2022/smiirl-analyse/)
 
 This project describes how the [Smiirl counters](https://www.smiirl.com/ "Smiirl counters") work and how they could possibly be used for other purposes without having to buy the custom counter.
@@ -56,3 +56,8 @@ sudo systemctl restart dnsmasq
 
 Set the DNS server of your router to the IP address of your new dns-server.
 Now make sure that you make both API endpoints available on a server (in the example 192.168.178.89) with the values according to your wishes.
+
+
+#### Example implementation
+
+[java example](blob/main/smiirl_mock/src/smiirl_mock/SmiirlMock.java)
